@@ -9,3 +9,33 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.glow{
+    box-shadow: 0px 0px 10px 10px beige;
+}
+
+
+
+.semaforo {
+    background-color: black;
+    display: inline-block;
+    padding: 20px;
+    ;
+}
+.luz {
+    width: 200px;
+    height: 200px;
+    border-radius: 50% ;
+    
+}
+
+.roja {
+    background: red;
+}
+.amarilla{
+    background: yellow;
+}
+.verde {
+    background: green;
+}
+
